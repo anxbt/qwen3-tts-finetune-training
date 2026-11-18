@@ -1,0 +1,11 @@
+# Training environment (Linux + NVIDIA GPU). Versions used for the runs described in README.md:
+# qwen-tts 0.1.1, accelerate 1.12, torch 2.x with CUDA. Other versions are untested.
+qwen-tts==0.1.1
+accelerate==1.12.*
+torch
+soundfile
+librosa
+scipy
+numpy
+safetensors
+transformers

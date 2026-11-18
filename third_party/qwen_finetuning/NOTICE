@@ -1,0 +1,4 @@
+dataset.py in this folder is copied unchanged from QwenLM/Qwen3-TTS:
+  https://github.com/QwenLM/Qwen3-TTS/blob/022e286b98fbec7e1e916cb940cdf532cd9f488e/finetuning/dataset.py
+Copyright 2026 The Alibaba Qwen team. Licensed under the Apache License, Version 2.0 (see the file header and ../../LICENSE).
+train/instruct_dataset.py subclasses its TTSDataset.

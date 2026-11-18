@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+*.safetensors
+*.bin
+*.pt
+*.wav
+*.flac
+*.log
+data/
+models/
+out/
+checkpoints/
